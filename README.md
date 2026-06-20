@@ -95,7 +95,10 @@ from `Sentiment Score`.
 
 ---
 
-## 📊 Dashboard Features (single consolidated page)
+## 📊 Dashboard
+
+![Dashboard Screenshot](docs/screenshots/dashboard_screenshot.png)
+
 A single, recruiter-ready canvas (1280×980) laid out the way an analyst would present to
 leadership — header banner, left filter rail, KPI band, and grouped insight sections:
 
